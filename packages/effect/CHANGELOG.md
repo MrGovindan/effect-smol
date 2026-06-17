@@ -1,5 +1,11 @@
 # effect
 
+## 4.0.0-beta.85
+
+### Patch Changes
+
+- [#2425](https://github.com/Effect-TS/effect-smol/pull/2425) [`2ba316b`](https://github.com/Effect-TS/effect-smol/commit/2ba316bd15fcbf1c50626500d44a2c9b3bec19f5) Thanks @tim-smart! - Add Random.choice for selecting a random element from an iterable.
+
 ## 4.0.0-beta.84
 
 ### Patch Changes
